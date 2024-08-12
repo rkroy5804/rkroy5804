@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ritesh Raj</h1>
-<h3 align="center">Front end</h3>
+<h3 align="center">Front end Software Engineer working from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rkroy5804&label=Profile%20views&color=0e75b6&style=flat" alt="rkroy5804" /> </p>
 
